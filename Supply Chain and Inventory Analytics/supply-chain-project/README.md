@@ -80,4 +80,4 @@ Full write-up, recommendations and data caveats: [docs/insights.md](docs/insight
 - Sales per order fall sharply from late 2017 while order counts hold up, so the final months should be read with caution.
 
 ## Author
-Siddhant Singh, [GitHub](https://github.com/your-username)
+Siddhant Singh, [GitHub][(https://github.com/ssingh199)]
